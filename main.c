@@ -19,11 +19,10 @@
 int main(void)
 {
 	sei();
-
 	lcd_init();
-
 	writeStringToLCD("Hello World");
-    /* Replace with your application code */
+	
+    
     while (1) 
     {
     }
