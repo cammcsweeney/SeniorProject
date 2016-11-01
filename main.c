@@ -1,8 +1,9 @@
 /*
  * ComponentID.c
- *
+ * 
  * Created: 11/1/2016 10:46:16 AM
  * Author : cmcsweeney
+ * Written for ATMega128A
  */ 
 #define F_CPU 16000000UL
 
